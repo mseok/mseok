@@ -16,14 +16,8 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Seokhyun Moon👋
 
----
 - 🌱 I’m currently working on Drug Discovery with AI.
-
----
-
 
 ### Tech & Tools Preference
 
-<img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=yellow"> 
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-bash%20-black">
+<img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=yellow">  <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-bash%20-black">
