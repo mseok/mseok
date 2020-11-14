@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Seokhyun Moon👋
 
-- 🌱 I’m currently working on Drug Discovery with AI.
+🌱 I’m currently working on Drug Discovery with AI.
 
 ### Tech & Tools Preference
 
